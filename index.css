@@ -9,8 +9,10 @@ h1 {
 }
 p {
   color: #000000;
+  text-align: center;
 }
 
 div.a {
   outline: 1px solid black;
+  text-align: center;
 }
